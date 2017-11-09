@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26014.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Com Algh 1", "ConsoleApp1\Com Algh 1.csproj", "{9224423B-EA16-4E5F-B0A2-710548759E75}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Com Algh 2", "..\ConsoleApp2\ConsoleApp1\Com Algh 2.csproj", "{40E7623E-0F75-45D2-AEB9-1F088B7ECA65}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9224423B-EA16-4E5F-B0A2-710548759E75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9224423B-EA16-4E5F-B0A2-710548759E75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9224423B-EA16-4E5F-B0A2-710548759E75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9224423B-EA16-4E5F-B0A2-710548759E75}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40E7623E-0F75-45D2-AEB9-1F088B7ECA65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40E7623E-0F75-45D2-AEB9-1F088B7ECA65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40E7623E-0F75-45D2-AEB9-1F088B7ECA65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40E7623E-0F75-45D2-AEB9-1F088B7ECA65}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
